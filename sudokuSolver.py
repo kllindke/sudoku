@@ -108,6 +108,6 @@ if __name__ == "__main__":
             else:
                counter += 1
 
-print(finalSol)
+   print(finalSol)
 
 
